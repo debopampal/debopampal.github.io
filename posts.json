@@ -1,20 +1,11 @@
 [
     {
-        "id": "1",
-        "title": "Hello World",
-		"description": "Short description",
-        "contentFile": "1.md",
-        "tags": ["angular", "typescript"],
-        "publishDate": "09.08.2023",
-        "category": "angular"
-    },
-	{
-        "id": "1",
-        "title": "Hello World",
-		"description": "Short description",
-        "contentFile": "1.md",
+        "id": "174f05ca-37f7-11ee-be56-0242ac120002",
+        "title": "Reactive code with Singnals - Angular v16",
+	"description": "A signal is just a special type of variable that holds a value. But unlike other variables, a signal also provides notification when the variable value changes. Signals can contain any value, from simple primitives to complex data structures. A signal's value is always read through a getter function, which allows Angular to track where the signal is used.",
+        "contentFile": "174f05ca-37f7-11ee-be56-0242ac120002.md",
         "tags": ["angular"],
-        "publishDate": "09.08.2023",
+        "publishDate": "10.08.2023",
         "category": "angular"
     }
 ]
