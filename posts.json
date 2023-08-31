@@ -1,19 +1,42 @@
 [
-    {
-        "id": "174f05ca-37f7-11ee-be56-0242ac120002",
-        "title": "Reactive code with Singnals - Angular v16",
-	"description": "A signal is just a special type of variable that holds a value. But unlike other variables, a signal also provides notification when the variable value changes. Signals can contain any value, from simple primitives to complex data structures. A signal's value is always read through a getter function, which allows Angular to track where the signal is used.",
-        "contentFile": "174f05ca-37f7-11ee-be56-0242ac120002.md",
-        "tags": ["angular"],
-        "publishDate": "10.08.2023",
-        "category": "angular",
-	"author": {
-		"name":"Debopam Pal",
-		"img":"https://raw.githubusercontent.com/debopampal/debopampal.github.io/blog-files/images/debopampal.jpg",
-		"about":"Debopam Pal is a software developer and author. His focus includes: web development, Java, Spring, Angular and DevOps",
-		"twitter": "https://twitter.com/debopam_pal",
-		"linkedin":"https://www.linkedin.com/in/debopampal/",
-		"youtube":""
-	}
+  {
+    "id": "174f05ca-37f7-11ee-be56-0242ac120002",
+    "title": "Reactive code with Signals - Angular v16",
+    "description": "A signal is just a special type of variable that holds a value. But unlike other variables, a signal also provides notification when the variable value changes. Signals can contain any value, from simple primitives to complex data structures. A signal's value is always read through a getter function, which allows Angular to track where the signal is used.",
+    "contentFile": "174f05ca-37f7-11ee-be56-0242ac120002.md",
+    "tags": [
+      "angular"
+    ],
+    "publishDate": "10.08.2023",
+    "category": "angular",
+    "author": {
+      "name": "Debopam Pal",
+      "img": "https://raw.githubusercontent.com/debopampal/debopampal.github.io/blog-files/images/debopampal.jpg",
+      "about": "Debopam Pal is a software developer and author. His focus includes: web development, Java, Spring, Angular and DevOps",
+      "twitter": "https://twitter.com/debopam_pal",
+      "linkedin": "https://www.linkedin.com/in/debopampal/",
+      "youtube": ""
     }
+  },
+  {
+    "id": "410d59dd-e978-4c23-b862-b63fe787ab04",
+    "title": "Reactive Programming",
+    "description": "The fundamental characteristics or principles of a reactive system:
+    Responsive: A reactive system should provide a rapid and consistent response time, and thus a consistent quality of service.
+    Resilient: A reactive system should remain responsive in case of random failures through replication and isolation.
+    Elastic: Such a system should remain responsive under unpredictable workloads through cost-effective scalability.
+    Message-Driven: It should rely on asynchronous message passing between system components.",
+    "contentFile": "410d59dd-e978-4c23-b862-b63fe787ab04.md",
+    "tags": [ "reactiveprogramming", "reactiveinjava", "asynchronous", "nonblocking", "messagedriven", "backpressurecontrol", "reactiveweb", "webflux", "reactor" ],
+    "publishDate": "31.08.2023",
+    "category": "java",
+    "author": {
+      "name": "Debopam Pal",
+      "img": "https://raw.githubusercontent.com/debopampal/debopampal.github.io/blog-files/images/debopampal.jpg",
+      "about": "Debopam Pal is a software developer and author. His focus includes: web development, Java, Spring, Angular and DevOps",
+      "twitter": "https://twitter.com/debopam_pal",
+      "linkedin": "https://www.linkedin.com/in/debopampal/",
+      "youtube": ""
+    }
+  }
 ]
