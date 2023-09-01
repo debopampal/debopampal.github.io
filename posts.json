@@ -21,9 +21,9 @@
   {
     "id": "410d59dd-e978-4c23-b862-b63fe787ab04",
     "title": "Reactive Programming",
-    "description": "The fundamental characteristics or principles of a reactive syste:<ol><li><u>Responsive</u>: A reactive system should provide a rapid and consistent response time, and thus a consistent quality of service.</li><li><u>Resilient</u>: A reactive system should remain responsive in case of random failures through replication and isolation.</li><li><u>Elastic</u>: Such a system should remain responsive under unpredictable workloads through cost-effective scalability.</li><li><u>Message-Driven</u>: It should rely on asynchronous message passing between system components.</li></ol>",
+    "description": "The fundamental characteristics or principles of a reactive syste:<ol><li><u>Responsive</u>: A reactive system should provide a rapid and consistent response time, and thus a consistent quality of service.</li><li><u>Resilient</u>: A reactive system should remain responsive in case of random failures through replication and isolation.</li><li><u>Elastic</u>: Such a system should remain responsive under unpredictable workloads through cost-effective scalability.</li><li><u>Message-Driven</u>: It should rely on asynchronous message passing between system components.</li></ol> Bird's-eye view on reactive programming",
     "contentFile": "410d59dd-e978-4c23-b862-b63fe787ab04.md",
-    "tags": [ "reactiveprogramming", "reactiveinjava", "asynchronous", "nonblocking", "messagedriven", "backpressurecontrol", "reactiveweb", "webflux", "reactor" ],
+    "tags": [ "reactiveprogramming", "reactiveinjava", "backpressure", "eventloop", "webflux", "asynchronous" ],
     "publishDate": "31.08.2023",
     "category": "java",
     "author": {
